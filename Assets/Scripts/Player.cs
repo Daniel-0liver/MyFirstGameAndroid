@@ -50,7 +50,6 @@ public class Player : MonoBehaviour
             anim.SetBool("Walk", false);
         }
 
-        anim.SetBool("Walk", true);
     }
 
     void Jump()
