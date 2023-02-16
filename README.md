@@ -1,3 +1,3 @@
 # MyFirstGameAndroid
 Plataform Game</p>
-Updates soon!
+Updates soon, just wait!
